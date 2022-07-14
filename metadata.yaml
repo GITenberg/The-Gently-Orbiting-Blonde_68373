@@ -1,0 +1,43 @@
+_repo: The-Gently-Orbiting-Blonde_68373
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Engle, Robert
+    aliases:
+    - Engel, Robert V.
+    - Engle, Robert V.
+    - Engle, Robert J.
+    birthdate: 1928
+    gutenberg_agent_id: '54220'
+    url: http://www.gutenberg.org/2009/agents/54220
+creator:
+  author:
+    agent_name: Peterson, John Victor
+    alias: Valding, Victor
+    gutenberg_agent_id: '33468'
+    url: http://www.gutenberg.org/2009/agents/33468
+description: ''
+gutenberg_issued: '2022-06-22'
+identifiers:
+  gutenberg: '68373'
+language: en
+pgterms:marc905: 20220220090801peterson
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1957.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antigravity -- Fiction'
+- !lcsh 'Inventors -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New Mexico -- Fiction'
+- !lcsh 'Newlyweds -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Gently Orbiting Blonde
+url: http://www.gutenberg.org/ebooks/68373
